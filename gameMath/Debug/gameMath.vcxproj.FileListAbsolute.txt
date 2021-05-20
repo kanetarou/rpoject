@@ -1,0 +1,2 @@
+C:\Users\81809\Desktop\gameMath\Debug\gameMath.exe
+C:\Users\81809\Desktop\gameMath\Debug\gameMath.pdb
