@@ -1,3 +1,5 @@
 ﻿  Main.cpp
-C:\Users\81809\Desktop\gameMath\Main.cpp(22): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
-  gameMath.vcxproj -> C:\Users\81809\Desktop\gameMath\Debug\gameMath.exe
+C:\Users\81809\Desktop\rpoject\gameMath\Main.cpp(73,18): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\rpoject\gameMath\Main.cpp(78,18): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81809\Desktop\rpoject\gameMath\Main.cpp(96): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
+  gameMath.vcxproj -> C:\Users\81809\Desktop\rpoject\gameMath\Debug\gameMath.exe
